@@ -1,0 +1,16 @@
+C:\Users\Арсений\Desktop\FinalFolder\DecidingWork\obj\Debug\net6.0\DecidingWork.GlobalUsings.g.cs
+C:\Users\Арсений\Desktop\FinalFolder\DecidingWork\obj\Debug\net6.0\DecidingWork.csproj.AssemblyReference.cache
+C:\Users\Арсений\Desktop\FinalFolder\DecidingWork\obj\Debug\net6.0\DecidingWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Арсений\Desktop\FinalFolder\DecidingWork\obj\Debug\net6.0\DecidingWork.AssemblyInfoInputs.cache
+C:\Users\Арсений\Desktop\FinalFolder\DecidingWork\obj\Debug\net6.0\DecidingWork.AssemblyInfo.cs
+C:\Users\Арсений\Desktop\FinalFolder\DecidingWork\obj\Debug\net6.0\DecidingWork.csproj.CoreCompileInputs.cache
+C:\Users\Арсений\Desktop\FinalFolder\DecidingWork\bin\Debug\net6.0\DecidingWork.exe
+C:\Users\Арсений\Desktop\FinalFolder\DecidingWork\bin\Debug\net6.0\DecidingWork.deps.json
+C:\Users\Арсений\Desktop\FinalFolder\DecidingWork\bin\Debug\net6.0\DecidingWork.runtimeconfig.json
+C:\Users\Арсений\Desktop\FinalFolder\DecidingWork\bin\Debug\net6.0\DecidingWork.dll
+C:\Users\Арсений\Desktop\FinalFolder\DecidingWork\bin\Debug\net6.0\ref\DecidingWork.dll
+C:\Users\Арсений\Desktop\FinalFolder\DecidingWork\bin\Debug\net6.0\DecidingWork.pdb
+C:\Users\Арсений\Desktop\FinalFolder\DecidingWork\obj\Debug\net6.0\DecidingWork.dll
+C:\Users\Арсений\Desktop\FinalFolder\DecidingWork\obj\Debug\net6.0\ref\DecidingWork.dll
+C:\Users\Арсений\Desktop\FinalFolder\DecidingWork\obj\Debug\net6.0\DecidingWork.pdb
+C:\Users\Арсений\Desktop\FinalFolder\DecidingWork\obj\Debug\net6.0\DecidingWork.genruntimeconfig.cache
